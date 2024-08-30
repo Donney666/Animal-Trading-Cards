@@ -1,0 +1,37 @@
+/* add your CSS here */
+h3{
+  margin-left:20px;
+  border:1px;
+}
+img{
+  width:300px;
+  /*padding:5px 10px 5px 10px;*/
+  margin:20px;
+  border:1px solid black;
+}
+
+.fact{
+  font-style:italic;
+}
+span{
+  font-weight:bold;
+}
+li{
+  list-style:none;
+}
+ul{
+ padding:1px;
+}
+
+.card{
+  border:1px solid black;
+  width:338px;
+  box-shadow: 0 0 10px 0 rgba(0,0,0,0.2);
+  background-color:#F0FFFF;
+}
+.cardinfo{
+  border:1px solid black;
+  width:280px;
+  padding:10px;
+  margin:20px;
+}
